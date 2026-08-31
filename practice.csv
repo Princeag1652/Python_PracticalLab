@@ -1,0 +1,11 @@
+id,name,age,city,department,salary
+1,Amit Sharma,25,Delhi,Engineering,50000
+2,Riya Verma,,Mumbai,Marketing,60000
+3,Karan Mehta,30,,Engineering,55000
+4,Sneha Gupta,28,Pune,,45000
+5,Vikas Yadav,35,Delhi,Sales,70000
+6,Anjali Singh,22,Bangalore,Engineering,
+7,Rohit Kumar,,Chennai,Marketing,52000
+8,Pooja Nair,29,Hyderabad,Sales,48000
+9,Suresh Iyer,40,,Finance,80000
+10,Neha Joshi,26,Delhi,,51000
